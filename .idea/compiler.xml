@@ -13,12 +13,6 @@
         <module name="gateway" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="gateway" target="17" />
-      <module name="pagamentos" target="17" />
-      <module name="pedidos" target="17" />
-      <module name="server" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

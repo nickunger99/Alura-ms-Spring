@@ -1,0 +1,11 @@
+br\com\alurafood\pedidos\model\ItemDoPedido.class
+br\com\alurafood\pedidos\controller\PedidoController.class
+br\com\alurafood\pedidos\model\Status.class
+br\com\alurafood\pedidos\repository\PedidoRepository.class
+br\com\alurafood\pedidos\service\PedidoService.class
+br\com\alurafood\pedidos\dto\ItemDoPedidoDto.class
+br\com\alurafood\pedidos\model\Pedido.class
+br\com\alurafood\pedidos\dto\PedidoDto.class
+br\com\alurafood\pedidos\config\Configuracao.class
+br\com\alurafood\pedidos\PedidosApplication.class
+br\com\alurafood\pedidos\dto\StatusDto.class
