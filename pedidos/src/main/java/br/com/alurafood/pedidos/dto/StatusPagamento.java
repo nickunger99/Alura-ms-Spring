@@ -1,6 +1,6 @@
-package br.com.alurafood.pagamentos.model;
+package br.com.alurafood.pedidos.dto;
 
-public enum Status {
+public enum StatusPagamento {
     CRIADO,
     CONFIRMADO,
     CONFIRMADO_SEM_INTEGRACAO,
